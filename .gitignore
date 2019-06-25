@@ -1,0 +1,5 @@
+simnet/*/data
+simnet/*/tls.cert
+simnet/*/tls.key
+
+*.swp
