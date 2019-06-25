@@ -1,7 +1,7 @@
 package grifts
 
 import (
-	"github.com/adilw3nomad/grophercy/actions"
+	"github.com/adilw3nomad/grophercy/api/actions"
 	"github.com/gobuffalo/buffalo"
 )
 

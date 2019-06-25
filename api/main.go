@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/adilw3nomad/grophercy/actions"
+	"github.com/adilw3nomad/grophercy/api/actions"
 )
 
 // main is the starting point for your Buffalo application.
