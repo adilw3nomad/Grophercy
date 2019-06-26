@@ -21,4 +21,4 @@ dev-up:
 
 # Attach to the simnet container
 attach-simnet:
-	@docker exec -ti simnet /bin/bash
+	@docker exec -ti simnet /bin/sh

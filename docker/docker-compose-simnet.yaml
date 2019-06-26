@@ -1,0 +1,10 @@
+version: '2'
+services:
+  simnet:
+    container_name: simnet
+    build: ../simnet
+    command: "/simnet/scripts/main.sh"
+    volumes:
+      - ../simnet:/simnet  
+    ports:
+        - 127.0.0.1:10009:10009

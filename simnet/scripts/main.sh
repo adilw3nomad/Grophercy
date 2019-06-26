@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Add a btcd.conf file in .btcd.
 mkdir /root/.btcd
